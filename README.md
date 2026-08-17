@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Greetings! I'm Ram, a passionate developer with a strong focus on mastering Java and building scalable applications.
+Greetings! I'm Ram, a passionate developer and founder with a strong focus on mastering Java and building scalable applications.
 
 ☕ **Java Mastery:** Deep dives into the Java ecosystem, from core logic to advanced framework topics.
 💻 **Backend Systems:** Creating and scaling Java-based web backends using Spring Boot, microservices, and database persistence.
